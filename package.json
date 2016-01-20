@@ -32,5 +32,6 @@
   "repository": "https://github.com/julien-maurel/jQuery-Storage-API",
   "files": [
     "jquery.storageapi.js"
-  ]
+  ],
+  "main": "jquery.storageapi.js"
 }
